@@ -11,7 +11,6 @@
             {{ destination.name }}          
         </app-link>
         <app-link :to="{name: 'protected'}">Dashboard</app-link>
-        <!-- <app-link to="https://vueschool.io">Vue School</app-link> -->
     </div>
 </template>
 
